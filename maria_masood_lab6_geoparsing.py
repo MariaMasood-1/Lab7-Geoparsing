@@ -111,4 +111,4 @@ def geoparsing_chart(url):
 
 
 
-geoparsing('https://www.gutenberg.org/files/65451/65451-0.txt')   #Kill Me if You Can! by Randall Garrett
+geoparsing_chart('https://www.gutenberg.org/files/65451/65451-0.txt')   #Kill Me if You Can! by Randall Garrett
